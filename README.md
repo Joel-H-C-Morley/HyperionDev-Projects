@@ -13,5 +13,5 @@ Description: Simple program demonstrating understanding of OOP which manages a l
 
 Project 5:
 source code: bookstore.py
-auxillary files: bookstore.db (only required to sotre databse, not for first time use)
+auxillary files: bookstore.db (only required to store database, not for first time use)
 Description: Simple program demonstrating understanding of SQLite3
